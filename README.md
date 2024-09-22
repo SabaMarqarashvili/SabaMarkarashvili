@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **Angular**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/SabaMarqarashvili/SabaMarkarashvili/issues/1)**
+💬 Ask me about **Angular, Javascript [here](https://github.com/SabaMarqarashvili/SabaMarkarashvili/issues/1)**
 
  </div>
  
